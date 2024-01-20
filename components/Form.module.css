@@ -1,0 +1,175 @@
+/* label {
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"] {
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14;
+  border: 1px solid black;
+  color: aliceblue;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  line-height: 1.42;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px; 
+} */
+
+/* css */
+
+/* Form.module.css */
+/* 
+.form {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.label {
+  font-weight: bold;
+  display: block;
+  margin: 5px 0;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 6px 12px;
+  font-size: 14px;
+  border: 1px solid black;
+  color: aliceblue;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  line-height: 1.42;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+} */
+
+/* css2 */
+
+/* Form.module.css */
+
+/* .form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input {
+  display: flex;
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+.left-align {
+  display: flex;
+  flex-direction: column;
+}
+.dull {
+  opacity: 0.5; 
+  cursor: not-allowed; 
+} */
+
+/* csss */
+
+/* Form.module.css */
+
+.form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.dull {
+  opacity: 0.5; /* Adjust the opacity to make the button appear dull */
+  cursor: not-allowed; /* Optionally, disable the cursor for a visual cue */
+}

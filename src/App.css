@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/* App.css */
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  min-width: 50vh;
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(to bottom, #c2e4f2, #4a9bd1);
+  color: #fff; /* Set text color to white for better visibility on the gradient */
+}
+
+h1 {
+  color: #3498db;
+}
+
+/* Add some styling for the forms if needed */
